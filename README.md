@@ -1,2 +1,3 @@
-# ZOHO_CLIQTRIX_PROJECT
+ZOHO_CLIQTRIX_PROJECT
 This chatbot is a travel assistant Which takes through all sorts of features that the travel agencies website has,it has notable features like recomending tourist spots based on customers interest,planning the trip,help the travellers to purchase their needs through amazon,flipckart etc..,the travellers can book hotels,photographers,once the booking is done the ID will be generated through which they can track their process throughout the journey,OTP verification is done by the chatbot to authenticate the user identity, This chatbot can be implemented in real time tourist sites,it has more features which help the users as well as the admin in a more productive way.
+https://www.cliqtrix.com/archives/2023/
